@@ -1,4 +1,3 @@
-Covid-19 Data Analytics
 
 # About
 This project contains two main parts.
